@@ -1,0 +1,12 @@
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\heartHealth.dll.config
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\heartHealth.dll
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\heartHealth.pdb
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\EntityFramework.dll
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\EntityFramework.SqlServer.dll
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\EntityFramework.xml
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\EntityFramework.SqlServer.xml
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\obj\Release\heartHealth.dll
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\obj\Release\heartHealth.pdb
+D:\svu\sessions\ADM\heartHealth\heartHealth\heartHealth\obj\Release\heartHealth.csprojResolveAssemblyReference.cache

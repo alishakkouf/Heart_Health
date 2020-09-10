@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.site4now.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.aspx">
+      <publishTime>05/24/2020 16:03:39</publishTime>
+    </File>
+    <File Include="addArticle.aspx">
+      <publishTime>05/26/2020 14:32:01</publishTime>
+    </File>
+    <File Include="admin.Master">
+      <publishTime>05/13/2020 18:00:44</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/03/2017 23:44:16</publishTime>
+    </File>
+    <File Include="bin/heartHealth.dll">
+      <publishTime>06/01/2020 16:29:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/16/2017 00:12:32</publishTime>
+    </File>
+    <File Include="blog.aspx">
+      <publishTime>05/13/2020 17:58:57</publishTime>
+    </File>
+    <File Include="captcha.aspx">
+      <publishTime>05/23/2020 03:16:49</publishTime>
+    </File>
+    <File Include="css/.DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>05/07/2020 11:30:41</publishTime>
+    </File>
+    <File Include="css/breadcrumb.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/breadcrumb.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/responsive.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>05/07/2020 11:32:11</publishTime>
+    </File>
+    <File Include="css/style.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_about.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_about.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_client.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_client.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_feature.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_feature.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_gallery.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_gallery.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_product.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_product.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_team.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_team.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_timer.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_timer.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_variables.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="css/_variables.css.map">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="deleteArticle.aspx">
+      <publishTime>05/25/2020 05:11:50</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/.DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/css/font-awesome.min.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/css/main.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/css/normalize.min.css">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/css/_DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/fonts/fontawesome-webfont.eot">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/fonts/fontawesome-webfont.ttf">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/fonts/fontawesome-webfont.woff">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/fonts/FontAwesome.otf">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/fonts/_DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/img/logo.png">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/index.html">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/js/custom.js">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/js/jquery-1.11.0.min.js">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/js/jquery.nav.js">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/js/_DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/syntax-highlighter/scripts/shBrushAS3.js">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/syntax-highlighter/_DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="Hospice Medical-doc/_DS_Store">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>05/20/2020 02:31:27</publishTime>
+    </File>
+    <File Include="index.Master">
+      <publishTime>05/26/2020 23:32:01</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>05/27/2020 20:33:27</publishTime>
+    </File>
+    <File Include="management.aspx">
+      <publishTime>05/26/2020 03:07:51</publishTime>
+    </File>
+    <File Include="management.Master">
+      <publishTime>05/27/2020 02:51:13</publishTime>
+    </File>
+    <File Include="prepros-6.config">
+      <publishTime>05/04/2020 16:03:57</publishTime>
+    </File>
+    <File Include="services.aspx">
+      <publishTime>05/29/2020 17:22:57</publishTime>
+    </File>
+    <File Include="services.Master">
+      <publishTime>05/27/2020 02:51:13</publishTime>
+    </File>
+    <File Include="sign_up.aspx">
+      <publishTime>05/24/2020 15:33:22</publishTime>
+    </File>
+    <File Include="single-blog.aspx">
+      <publishTime>05/27/2020 14:57:05</publishTime>
+    </File>
+    <File Include="update.aspx">
+      <publishTime>05/27/2020 14:29:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/01/2020 16:30:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
