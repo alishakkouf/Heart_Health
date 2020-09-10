@@ -1,0 +1,6 @@
+   *ngFor="let item of items"
+    <img  [src]="items[0]" />
+
+
+git@github.com:alishakkouf/first_repo.git
+C:\Users\ali\Downloads\ProKoders\heartHealth
